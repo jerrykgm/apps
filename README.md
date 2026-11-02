@@ -15,3 +15,4 @@ Official public repository for native Dookanwale Android app (.apk) binaries.
 - **Product Studio**: Frame colours & visual swatches, sizes/variants, multi-image gallery uploader, and tax-inclusive pricing switch.
 - **Non-Blocking Updates**: Never forces or locks out merchants if an update is available.
 - **Edge-Optimized CDN**: High-speed, unlimited downloads directly hosted on GitHub.
+
