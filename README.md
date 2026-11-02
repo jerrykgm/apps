@@ -4,15 +4,18 @@ Official public repository for native Dookanwale Android app (.apk) binaries.
 
 ## Download Latest Version
 
-- **Latest Version**: `v1.0.2` (Build 3)
+- **Latest Version**: `v1.0.3` (Build 4)
 - **Direct Download Link**: [Download dookanwale.apk](https://github.com/jerrykgm/apps/raw/main/dookanwale.apk)
-- **Versioned Link**: [Download dookanwale-v1.0.2.apk](https://github.com/jerrykgm/apps/raw/main/dookanwale-v1.0.2.apk)
+- **Versioned Link**: [Download dookanwale-v1.0.3.apk](https://github.com/jerrykgm/apps/raw/main/dookanwale-v1.0.3.apk)
+- **Previous Release**: [Download dookanwale-v1.0.2.apk](https://github.com/jerrykgm/apps/raw/main/dookanwale-v1.0.2.apk)
 - **Official Website**: [dookanwale.com/download](https://dookanwale.com/download)
 
-### Release Highlights (v1.0.2)
+### Release Highlights (v1.0.3)
+- **Direct In-App Auto Updates**: Automatically download and install app updates right inside Dookanwale without needing to open a browser.
+- **Real-Time Download Progress**: Live MB counter, percentage progress bar, and cancellation support.
+- **Native Android Installer Handoff**: Automatically triggers Android's native system package installer once downloaded.
 - **Flawless Categories Management**: Create, edit, and delete store categories directly from the mobile app with real-time sync.
 - **In-Editor Category Creation**: Quick `+ Add Category` button right inside the Product Editor.
 - **Product Studio**: Frame colours & visual swatches, sizes/variants, multi-image gallery uploader, and tax-inclusive pricing switch.
 - **Non-Blocking Updates**: Never forces or locks out merchants if an update is available.
 - **Edge-Optimized CDN**: High-speed, unlimited downloads directly hosted on GitHub.
-
