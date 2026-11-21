@@ -32,10 +32,11 @@ Official native Dookanwale Android app binaries.
 
 ### Download Latest Version
 
-- **Latest Version**: `v1.0.7`
+- **Latest Version**: `v1.0.8`
 - **Direct Download Link**: [Download dookanwale.apk](https://github.com/jerrykgm/apps/raw/main/dookanwale.apk)
-- **Versioned Link**: [Download dookanwale-v1.0.7.apk](https://github.com/jerrykgm/apps/raw/main/dookanwale-v1.0.7.apk)
+- **Versioned Link**: [Download dookanwale-v1.0.8.apk](https://github.com/jerrykgm/apps/raw/main/dookanwale-v1.0.8.apk)
 - **Previous Releases**: 
+  - [Download dookanwale-v1.0.7.apk](https://github.com/jerrykgm/apps/raw/main/dookanwale-v1.0.7.apk)
   - [Download dookanwale-v1.0.6.apk](https://github.com/jerrykgm/apps/raw/main/dookanwale-v1.0.6.apk)
   - [Download dookanwale-v1.0.5.apk](https://github.com/jerrykgm/apps/raw/main/dookanwale-v1.0.5.apk)
   - [Download dookanwale-v1.0.4.apk](https://github.com/jerrykgm/apps/raw/main/dookanwale-v1.0.4.apk)
